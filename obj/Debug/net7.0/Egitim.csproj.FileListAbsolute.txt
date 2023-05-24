@@ -1,0 +1,15 @@
+D:\Egitim\bin\Debug\net7.0\Egitim.exe
+D:\Egitim\bin\Debug\net7.0\Egitim.deps.json
+D:\Egitim\bin\Debug\net7.0\Egitim.runtimeconfig.json
+D:\Egitim\bin\Debug\net7.0\Egitim.dll
+D:\Egitim\bin\Debug\net7.0\Egitim.pdb
+D:\Egitim\obj\Debug\net7.0\Egitim.csproj.AssemblyReference.cache
+D:\Egitim\obj\Debug\net7.0\Egitim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egitim\obj\Debug\net7.0\Egitim.AssemblyInfoInputs.cache
+D:\Egitim\obj\Debug\net7.0\Egitim.AssemblyInfo.cs
+D:\Egitim\obj\Debug\net7.0\Egitim.csproj.CoreCompileInputs.cache
+D:\Egitim\obj\Debug\net7.0\Egitim.dll
+D:\Egitim\obj\Debug\net7.0\refint\Egitim.dll
+D:\Egitim\obj\Debug\net7.0\Egitim.pdb
+D:\Egitim\obj\Debug\net7.0\Egitim.genruntimeconfig.cache
+D:\Egitim\obj\Debug\net7.0\ref\Egitim.dll
